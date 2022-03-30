@@ -1,5 +1,5 @@
 <h1> Hello ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width='50px'> </h1>
-<img width="25%" align="right" alt="Github" src="https://i1.sndcdn.com/artworks-IuIG2DsIRSyV8II0-DPOAOw-t500x500.jpg" />
+<img width="30%" align="right" alt="Github" src="https://images6.fanpop.com/image/photos/41500000/IPie-swat-kats-41575493-300-225.gif" />
 <div size='20px'> My name is Jaya Krishnan Nair </div>
 
 <h2> About Me </h2>
