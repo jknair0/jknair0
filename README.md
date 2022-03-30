@@ -20,8 +20,8 @@
 <text>&nbsp;&nbsp;</text>
 <a href='https://github.com/jknair0?tab=repositories&q=&type=&language=go&sort='><img width ='24px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg'></a>
 
-[![jknair0's GitHub stats](https://github-readme-stats.vercel.app/api?username=jknair0&hide_title=true)](https://github.com/jknair0/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jknair0&layout=compact)](https://github.com/jknair0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jknair0&langs_count=5&layout=compact)](https://github.com/jknair0/github-readme-stats)
+[![jknair0's GitHub stats](https://github-readme-stats.vercel.app/api?username=jknair0&hide_title=true&show_icons=true&count_private=true&hide_rank=true&disable_animations=true)](https://github.com/jknair0/github-readme-stats)
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h2>
 <a href = 'https://www.linkedin.com/in/jknair0'> <img width = '24px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
