@@ -2,6 +2,10 @@
 <img width="30%" align="right" alt="Github" src="https://images6.fanpop.com/image/photos/41500000/IPie-swat-kats-41575493-300-225.gif" />
 <div size='20px'> My name is Jaya Krishnan Nair </div>
 
+<br>
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jknair0.visitor-badge)
+
 <h2> About Me </h2>
 
  - 🔭 I’m specialized in Mobile Application Development.
@@ -35,11 +39,3 @@
 <h2> Recent Activity <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/git.gif' width="50px"> </h2>
 
 <!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-<br>
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jknair0.visitor-badge)
-
-
