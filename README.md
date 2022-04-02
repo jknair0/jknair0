@@ -31,3 +31,8 @@
 <a href = 'https://www.github.com/jknair0'> <img width = '24px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 <text>&nbsp;&nbsp;&nbsp;</text>
 <a href = 'https://jknair0.dev'> <img width = '24px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+
+<br>
+<br>
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jknair0.visitor-badge)
