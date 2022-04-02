@@ -6,7 +6,6 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jknair0.visitor-badge)
 
 <h2> About Me </h2>
-<img width="30%" align="right" alt="Cartoon" src="/assets/man_dark.jpg" />
 
  - 🔭 I’m specialized in Mobile Application Development.
 
