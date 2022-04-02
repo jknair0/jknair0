@@ -32,15 +32,11 @@
 <text>&nbsp;&nbsp;&nbsp;</text>
 <a href = 'https://jknair0.dev'> <img width = '24px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 
-<br>
+<h2> Recent Activity <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/git.gif' width="50px"> </h2>
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 <br>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jknair0.visitor-badge)
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#504](https://github.com/mockk/mockk/issues/504) in [mockk/mockk](https://github.com/mockk/mockk)
-2. 💪 Opened PR [#24493](https://github.com/mozilla-mobile/fenix/pull/24493) in [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)
-3. 🗣 Commented on [#24461](https://github.com/mozilla-mobile/fenix/issues/24461) in [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)
-4. 🗣 Commented on [#24471](https://github.com/mozilla-mobile/fenix/issues/24471) in [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)
-5. 🗣 Commented on [#806](https://github.com/mockk/mockk/issues/806) in [mockk/mockk](https://github.com/mockk/mockk)
-<!--END_SECTION:activity-->
