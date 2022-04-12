@@ -3,8 +3,6 @@
 
 <br>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jknair0.visitor-badge)
-
 <h2> About Me </h2>
 
  - 🔭 I’m specialized in Mobile Application Development.
