@@ -1,7 +1,6 @@
 <h1> Hello! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width='50px'> </h1>
 <div size='20px'> My name is Jaya Krishnan Nair </div>
 
-<br>
 
 <h2> About Me <img alt="skills" src="/assets/cartoon.webp" width="32px"></h2>
 
