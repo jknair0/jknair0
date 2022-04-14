@@ -37,8 +37,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#24692](https://github.com/mozilla-mobile/fenix/issues/24692) in [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)
-2. 🎉 Merged PR [#2](https://github.com/jknair0/elk-reference/pull/2) in [jknair0/elk-reference](https://github.com/jknair0/elk-reference)
-3. 💪 Opened PR [#2](https://github.com/jknair0/elk-reference/pull/2) in [jknair0/elk-reference](https://github.com/jknair0/elk-reference)
-4. 🎉 Merged PR [#1](https://github.com/jknair0/elk-reference/pull/1) in [jknair0/elk-reference](https://github.com/jknair0/elk-reference)
-5. 🗣 Commented on [#504](https://github.com/mockk/mockk/issues/504) in [mockk/mockk](https://github.com/mockk/mockk)
+2. 💪 Opened PR [#12001](https://github.com/mozilla-mobile/android-components/pull/12001) in [mozilla-mobile/android-components](https://github.com/mozilla-mobile/android-components)
+3. 🗣 Commented on [#24692](https://github.com/mozilla-mobile/fenix/issues/24692) in [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)
+4. 🗣 Commented on [#11998](https://github.com/mozilla-mobile/android-components/issues/11998) in [mozilla-mobile/android-components](https://github.com/mozilla-mobile/android-components)
+5. 🗣 Commented on [#24692](https://github.com/mozilla-mobile/fenix/issues/24692) in [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)
 <!--END_SECTION:activity-->
