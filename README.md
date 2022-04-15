@@ -4,9 +4,9 @@
 
 <h2> About Me <img alt="skills" src="/assets/cartoon.webp" width="32px"></h2>
 
- - 🔭 I’m specialized in Mobile Application Development.
+ - 🔭 Specialized in Mobile Application Development.
 
- - 👯 I’m looking to collaborate on Interesting Open-Source projects.
+ - 👯 Looking to collaborate on Interesting Open-Source projects.
 
  - 💬 Talk to me about Books, Tech & Old Cartoon.
 
