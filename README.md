@@ -37,7 +37,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#828](https://github.com/mockk/mockk/issues/828) in [mockk/mockk](https://github.com/mockk/mockk)
 2. 🗣 Commented on [#828](https://github.com/mockk/mockk/issues/828) in [mockk/mockk](https://github.com/mockk/mockk)
-3. 🎉 Merged PR [#3](https://github.com/jknair0/MockKStubGenerator/pull/3) in [jknair0/MockKStubGenerator](https://github.com/jknair0/MockKStubGenerator)
-4. 🗣 Commented on [#24692](https://github.com/mozilla-mobile/fenix/issues/24692) in [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)
-5. 💪 Opened PR [#12001](https://github.com/mozilla-mobile/android-components/pull/12001) in [mozilla-mobile/android-components](https://github.com/mozilla-mobile/android-components)
+3. 🗣 Commented on [#828](https://github.com/mockk/mockk/issues/828) in [mockk/mockk](https://github.com/mockk/mockk)
+4. 🎉 Merged PR [#3](https://github.com/jknair0/MockKStubGenerator/pull/3) in [jknair0/MockKStubGenerator](https://github.com/jknair0/MockKStubGenerator)
+5. 🗣 Commented on [#24692](https://github.com/mozilla-mobile/fenix/issues/24692) in [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)
 <!--END_SECTION:activity-->
