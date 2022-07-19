@@ -8,7 +8,7 @@
 
  - 👯 Looking to collaborate on Interesting Open-Source projects.
 
- - 💬 Talk to me about Books, Tech & Old Cartoon.
+ - 💬 Talk to me about Books, Tech & Anime.
 
 <h2> Skills <img alt="skills" src="/assets/giphy.webp" width='32'></h2>
   
