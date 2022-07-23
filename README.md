@@ -35,9 +35,9 @@
 <h2> Recent Activity <img alt="git" src='assets/git.gif' width='64'> </h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#828](https://github.com/mockk/mockk/issues/828) in [mockk/mockk](https://github.com/mockk/mockk)
+1. 🗣 Commented on [#21266](https://github.com/gradle/gradle/issues/21266) in [gradle/gradle](https://github.com/gradle/gradle)
 2. 🗣 Commented on [#828](https://github.com/mockk/mockk/issues/828) in [mockk/mockk](https://github.com/mockk/mockk)
 3. 🗣 Commented on [#828](https://github.com/mockk/mockk/issues/828) in [mockk/mockk](https://github.com/mockk/mockk)
-4. 🎉 Merged PR [#3](https://github.com/jknair0/MockKStubGenerator/pull/3) in [jknair0/MockKStubGenerator](https://github.com/jknair0/MockKStubGenerator)
+4. 🗣 Commented on [#828](https://github.com/mockk/mockk/issues/828) in [mockk/mockk](https://github.com/mockk/mockk)
 5. 🗣 Commented on [#24692](https://github.com/mozilla-mobile/fenix/issues/24692) in [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)
 <!--END_SECTION:activity-->
